@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Shake Flashlight</string>
+    <string name="title_enable">Shake to turn on flashlight</string>
+    <string name="subtitle_status_on">Active — shake your phone to toggle the flashlight, even when locked</string>
+    <string name="subtitle_status_off">Off — flip the switch to start listening for shakes</string>
+    <string name="sensitivity_label">Shake sensitivity</string>
+    <string name="sensitivity_low">Less sensitive (harder to trigger, fewer accidents)</string>
+    <string name="sensitivity_high">More sensitive (easier to trigger)</string>
+    <string name="notification_channel_name">Shake Flashlight Service</string>
+    <string name="notification_channel_desc">Shows the running status of the shake-to-flashlight service</string>
+    <string name="notification_title">Shake Flashlight</string>
+    <string name="notification_text_on">Listening for shakes • Flashlight ON</string>
+    <string name="notification_text_off">Listening for shakes • Flashlight OFF</string>
+    <string name="action_stop">Stop</string>
+    <string name="permission_rationale">Camera and notification permissions are needed so the flashlight can be controlled and the service can run reliably in the background.</string>
+</resources>
